@@ -1,0 +1,16 @@
+{
+    "name": "websocket-server",
+    "version": "1.0.0",
+    "description": "A standalone WebSocket server running on Glitch",
+    "main": "server.js",
+    "scripts": {
+      "start": "node server.js"
+    },
+    "dependencies": {
+      "ws": "^8.13.0",
+      "express": "^4.21.2"
+    },
+    "engines": {
+      "node": ">=16"
+    }
+  }
