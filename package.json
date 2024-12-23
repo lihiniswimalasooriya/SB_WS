@@ -1,7 +1,7 @@
 {
     "name": "websocket-server",
     "version": "1.0.0",
-    "description": "A standalone WebSocket server running on Glitch",
+    "description": "A standalone WebSocket server for real time seat booking update",
     "main": "server.js",
     "scripts": {
       "start": "node server.js"
